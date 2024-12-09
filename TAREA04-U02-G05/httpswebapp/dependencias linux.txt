@@ -1,0 +1,15 @@
+#Paquetes de Arch y AUR
+certbot //Certificado https
+android-tools  // Para conectar los telefonos en modo usb debug
+scrcpy //Para la conexion de video de telefonos
+python-pip  //Instalador de paquetes de pythob
+python-venv //Creacion de entornos virtuales de python
+openssl //Autofirmar y leer certificados https
+wireshark(-qt) //http sniffing 
+
+
+#Librerias de PIP
+flask //Framework para cracion de webapps en python
+wtforms //Framework para manejo de formulatios 
+
+
