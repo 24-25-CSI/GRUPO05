@@ -1,0 +1,6 @@
+# Generar el certificado usando bash
+openssl req -x509 -newkey rsa:4096 -nodes -out cert.pem -keyout key.pem -days 365
+
+# Leer el certificado desde bash 
+openssl x509 -in cert.pem -noout -text
+
